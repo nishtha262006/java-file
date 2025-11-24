@@ -237,9 +237,9 @@ This project was developed as part of Java Programming coursework, demonstrating
 
 ---
 
-**Author**: Vaidehi Dadheech<br> 
-**Reg. No.**: 24BCE11043<br>
+**Author**: Nishtha Manish Wadaskar<br> 
+**Reg. No.**: 24BCE10608<br>
 **Course**: (CSE2006) Programming in Java</br>
 **Institution**: Vellore Institute of Technology, Bhopal  
-**Date**: 2025-09-25 
+**Date**: 2025-11-24 
 **Version**: 1.01
